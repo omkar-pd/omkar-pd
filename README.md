@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omkar-pd
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Dev.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React Js and Next Js.
 - 📫 How to reach me ...
 - Email: omkarpd109@gmail.com
 
