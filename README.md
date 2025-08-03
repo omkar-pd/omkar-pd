@@ -27,7 +27,7 @@ I'm a passionate **Full Stack Engineer** with a strong focus on **Web Developmen
 
 ## 📫 How to Reach Me
 - **Email:** [omkarpd109@gmail.com](mailto:omkarpd109@gmail.com)
-- **LinkedIn:** [Omkar Deshpande](https://www.linkedin.com/in/omkar-deshpande-aa59781bb/)
+- **LinkedIn:** [Omkar Deshpande](https://www.linkedin.com/in/omkar-pd/)
 - **GitHub:** [@omkar-pd](https://github.com/omkar-pd)
 
 ---
